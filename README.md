@@ -27,7 +27,7 @@
 <!-- Social Links -->
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gullojuudaykiran" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/gulloju-uday-kiran-656571285/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
 <a href="https://leetcode.com/gullojuudaykiran" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="40" /></a>
 </p>
 
